@@ -144,7 +144,7 @@ Die Farben der Charaktere haben keinen Einfluss auf die Fertigkeiten. Zu Beginn 
 Fertigkeit. Jede Fertigkeit kann mehrfach gewählt werden. 
 
 ##### Taschendieb
-Bei nahkampf, wenn ein Beutel fallengelassen wurde darf diser aufgenommen werden (wenn der Anwender im selben Feld 				steht wie der fallengelassene Beutel)
+Bei nahkampf, wenn ein Beutel fallengelassen wurde darf diser aufgenommen werden (wenn der Anwender im selben Feld steht wie der fallengelassene Beutel)
 
 ##### Schöhnheit
 Darf nicht als Ziel von Nahkämpfe gewählt werden wenn andere Ziele ohne eine entsprechende Fertigikeit möglich sind
