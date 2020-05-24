@@ -1,0 +1,1 @@
+Ereigniss, waffe oder ausrüstung die ein hinderniss erzeugt. Hinderniss verhindert das betreten eines feldes
